@@ -1,6 +1,6 @@
 # fpm + openacc + gpu 
 
-A how to run an openacc accelerated program using the fpm
+A how to run an openacc accelerated program using the fpm, using the interfaces from https://github.com/SourceryTools/fortran-cuda-interfaces/tree/master
 
 
 ## How to build and run  
