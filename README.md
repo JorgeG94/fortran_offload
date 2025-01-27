@@ -1,4 +1,4 @@
-# fpm-openacc-bug_questionmark
+# fpm + openacc + gpu 
 
 A how to run an openacc accelerated program using the fpm
 
