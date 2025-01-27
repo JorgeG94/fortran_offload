@@ -1,0 +1,22 @@
+name = "test"
+version = "0.1.0"
+license = "license"
+author = "Jorge"
+maintainer = "jg4@iastate.edu"
+copyright = "Copyright 2025, Jorge"
+[build]
+link = ["cublas"]
+auto-executables = false
+auto-tests = false
+auto-examples =false
+module-naming = false
+[[executable]]
+name = "app-name"
+link = ["cublas"]
+[install]
+library = false
+[fortran]
+implicit-typing =true
+implicit-external = true
+source-form = "free"
+
